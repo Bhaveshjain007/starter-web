@@ -1,3 +1,0 @@
-This is sample text file, which will be uploaded to Starter-web remote repository.
-
-This is updated file.
